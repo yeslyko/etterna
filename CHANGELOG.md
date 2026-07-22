@@ -1,16 +1,52 @@
 # Changelog
 All releases of Etterna are listed in this file as well as links to files detailing all of the changes for each. All changes for each version apply in supplement to the ones below it. Changes are not in chronological order, only versions are.
 
+## [0.74.4] - 2025-04-01 - Hotfix
+
+Windows x64, Windows i386, Mac Apple Silicon and Intel installer release. Linux binary.
+- Security vulnerability fix and other stuff.
+- [Notes](.changelog/Release_0-74-4.md)
+
+## [0.74.3] - 2025-01-11 - Hotfix
+
+Windows x64, Windows i386, Mac Apple Silicon and Intel installer release. Linux binary.
+- Fix for long files and a few tiny additions.
+- [Notes](.changelog/Release_0-74-3.md)
+
+## [0.74.2] - 2024-12-27 - Hotfix
+
+Windows x64, Windows i386, Mac Apple Silicon and Intel installer release. Linux binary.
+- Gameplay screen heap corruption fix.
+- [Notes](.changelog/Release_0-74-2.md)
+
+## [0.74.1] - 2024-12-26 - Hotfix
+
+Windows x64, Windows i386, Mac Apple Silicon and Intel installer release. Linux binary.
+- A few crash fixes.
+- [Notes](.changelog/Release_0-74-1.md)
+
+## [0.74.0] - 2024-12-25 - EtternaOnline Rewrite
+
+Windows x64, Windows i386, Mac Apple Silicon and Intel installer release. Linux binary.
+- API changes for the new version of EtternaOnline with some new enhacements. Various changes and fixes for Til' Death and Rebirth themes.
+- [Notes](.changelog/Release_0-74-0.md)
+
+## [0.73.0] - 2024-xx-xx - EtternaOnline Rewrite
+
+Refer to the 0.74 release notes for information here.
+
+This release was renamed due to a lack of an official release, but copius public testing.
+
 ## [0.72.3] - 2023-03-21 - Hotfix
 
 Windows x64, Windows i386, and Mac installer release. Linux binary.
-- Fixes for replays and other stuff
+- Fixes for replays and other stuff.
 - [Notes](.changelog/Release_0-72-3.md)
 
 ## [0.72.2] - 2023-03-01 - Hotfix
 
 Windows x64, Windows i386, and Mac installer release. Linux binary.
-- Fixes for replays and other stuff
+- Fixes for replays and other stuff.
 - [Notes](.changelog/Release_0-72-2.md)
 
 ## [0.72.1] - 2023-01-09 - Hotfix
@@ -43,7 +79,7 @@ Windows x64, Windows i386, and Mac installer release. Linux binary.
 - New theme. Til Death refresher. A lot.
 - [Notes](.changelog/Release_0-71-0.md)
 
-## [0.70.3] - 2020-07-17 - MSd Update
+## [0.70.3] - 2020-07-17 - MSD Update
 
 Windows x64, Windows i386, and Mac installer release.
 - Calc tuning and bare-frames release.
